@@ -1,4 +1,4 @@
-# VirtualPlanetarium
+# Virtual-Planetarium
 This project consists of a virtual planetarium, created using the Java 3D API, that allows users to view the night sky and prominent constellations.
 
 <img width="1324" alt="Screenshot 2024-08-02 at 9 11 20 AM" src="https://github.com/user-attachments/assets/feb5133e-4025-4b4c-990c-19fff3897f93">
